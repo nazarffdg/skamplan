@@ -1,0 +1,30 @@
+.aa{
+	margin:5px 10px 5px 150px;
+	border: 10px outset #FF9A00;
+	color:#FFF2CD;
+	background-color:#FFAB00;
+	width:1000px;
+	padding:50px 300px 50px 300px;
+}
+.ab{
+	margin:5px 10px 5px 150px;
+	border: 10px outset #FF9A00;
+	color:#FFF2CD;
+	background-color:#FFAB00;
+	width:1000px;
+	padding:100px 300px 100px 300px;
+	
+	
+}
+.bb{
+	margin:5px 10px 5px 150px;
+	border: 10px outset #FF9A00;
+	color:#FFF2CD;
+	background-color:#FFAB00;
+	width:1000px;
+	padding:100px 300px 100px 300px;
+}
+body{
+	background-color:#FDF19F;
+}
+	
